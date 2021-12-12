@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# WikiSearch Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Application demo
+![](https://github.com/alicjakarczewska/WikiSearchApp/blob/main/gif/WikiSearchApp.gif)
+
+### Description
+In the WikiSearch Application you can search articles from Wikipedia, read them inside the app and see the history of your searches. This application uses MediaWiki Core REST API. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
