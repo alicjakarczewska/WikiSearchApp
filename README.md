@@ -3,6 +3,9 @@
 ## Application demo
 ![](https://github.com/alicjakarczewska/WikiSearchApp/blob/main/gif/WikiSearchApp.gif)
 
+### Link to CodeSandbox:
+https://codesandbox.io/s/react-playground-forked-vketw?file=/src/App.js
+
 ### Description
 In the WikiSearch Application you can search articles from Wikipedia, read them inside the app and see the history of your searches. This application uses MediaWiki Core REST API. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
